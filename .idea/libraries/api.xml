@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES>
+      <root url="jar://D:/Java/Additional_Library/colt/lib/colt.jar!/" />
+      <root url="jar://D:/Java/Additional_Library/colt/lib/concurrent.jar!/" />
+      <root url="jar://D:/PostgreSQL_JDBC/postgresql-42.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Java/Additional_Library/colt/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Java/Additional_Library/colt/src" />
+    </SOURCES>
+  </library>
+</component>
